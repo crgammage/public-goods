@@ -1,0 +1,140 @@
+.header {
+  background-image: url("./images/menstrual-hero_mobile.jpg");
+  display: block;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 1000px;
+  background-position: center;
+  padding: 5px;
+  font-size: 20px;
+}
+
+#introducing-bio {
+  padding-top: 10px;
+  font-size: 50px;
+}
+
+#shop-now {
+  text-align: center;
+  background-color: #fdab9f;
+  height: 70px;
+  width: 500px;
+  font-size: 30px;
+  color: white;
+  border: none;
+}
+
+.button-container {
+  text-align: center;
+  padding: 10px;
+  margin-top: -100px;
+}
+
+.card {
+  background-image: url("./images/bamboo_mobile.jpg");
+  background-size: 90%;
+  height: 1000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: white;
+}
+
+.card-text {
+  padding-top: 100px;
+  text-align: center;
+  font-size: 80px;
+}
+
+#blurb {
+  padding-top: 30px;
+  font-size: 50px;
+}
+
+.pad-container {
+  background-image: url("./images/pad_detail_mobile.jpg");
+  background-size: 90%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 900px;
+}
+
+#pad-header {
+  color: black;
+  padding-top: 200px;
+  padding-left: 150px;
+  text-align: left;
+  font-size: 90px;
+}
+
+#pad-text {
+  padding-top: 10px;
+  padding-left: 150px;
+  text-align: left;
+  font-size: 40px;
+}
+
+.body-design-container {
+  background-image: url("./images/pad_in_hand_mobile.jpg");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 900px;
+  width: 1110px;
+}
+
+#designed-header {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 60px;
+}
+
+#designed-text {
+  text-align: center;
+  margin-top: -20px;
+  font-size: 30px;
+  line-height: 150%;
+}
+
+.the-collection {
+  text-align: center;
+  font-size: 40px;
+  padding: 100px;
+}
+
+.image {
+  width: 1000px;
+  height: 1000;
+  margin-left: 60px;
+}
+
+.image-name {
+  font-size: 40px;
+  margin-left: 60px;
+}
+
+.image-price {
+  font-size: 40px;
+  margin-top: -40px;
+  margin-left: 60px;
+}
+
+.public-goods {
+  background-image: url("./images/new-to-public-goods_mobile.jpg");
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 1700px;
+  background-position: bottom;
+}
+
+#public-goods-header {
+  padding-top: 200px;
+  font-size: 80px;
+}
+
+#public-goods-text {
+  font-size: 40px;
+  line-height: 120%;
+}
